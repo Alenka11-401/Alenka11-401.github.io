@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+}
+.main2page {
+    background-color: #FFA174;
+}
+
+footer {
+    background-color: #CD6DF0;
+}
+.header2page {
+    background-color: #FFE400;
+}
+.h1onepage{
+    color: #FFCD7D;
+    font-family: fantasy;
+    font-size: 60px
+}
+.social{
+    margin:120px;
+}
+.main3page{
+    background-color: #FF7100;
+}
+nav{
+    padding:20px;
+}
+nav a{
+    margin: 0 20px 0 20px;
+}
+main {
+    background-color: #3D59F1;
+}
+
