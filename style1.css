@@ -4,7 +4,17 @@ body {
 .main2page {
     background-color: #FFA174;
 }
-
+.headeronepage {
+    background: #FF8740;
+    height: 50px;
+    text-align:center;
+    padding-top:25px;
+}
+.h1onepage{
+    color: #FFCD7D;
+    font-family: fantasy;
+    font-size: 60px
+}
 footer {
     background-color: #CD6DF0;
 }
