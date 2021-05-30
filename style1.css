@@ -1,44 +1,79 @@
 body {
     font-family: sans-serif;
+    background-color: PowderBlue;
 }
-.main2page {
-    background-color: #FFA174;
+header{
+    background-color: White;
+    padding: 20px;
+    border-radius: 10px;
+   
+
+
 }
-.headeronepage {
-    background: #FF8740;
-    height: 50px;
-    text-align:center;
-    padding-top:25px;
+h1{
+  font-family: fantasy ;
 }
-.h1onepage{
-    color: #FFCD7D;
-    font-family: fantasy;
-    font-size: 60px
-}
-footer {
-    background-color: #CD6DF0;
-}
-.header2page {
-    background-color: #FFE400;
-}
-.h1onepage{
-    color: #FFCD7D;
-    font-family: fantasy;
-    font-size: 60px
-}
-.social{
-    margin:120px;
-}
-.main3page{
-    background-color: #FF7100;
-}
-nav{
-    padding:20px;
-}
-nav a{
-    margin: 0 20px 0 20px;
-}
-main {
-    background-color: #3D59F1;
+.p{
+    font-size: 30px;
+    background-color: SlateBlue;
 }
 
+nav{
+    margin-top: 20px;
+    padding: 10px;
+}
+
+
+
+
+.n {
+    padding-left: 200px
+}
+footer{
+   background-color: Lavender
+}
+a {
+    text-decoration: none;
+    font-family: cursive ;
+    font-size: 30px;
+   
+}
+.link-header{
+ color: purple ;
+ background: Orchid;
+ border-radius: 10px;
+ margin: 5px;
+ padding: 10px;
+ 
+
+}
+
+
+.link-header:hover{
+ color: BurlyWood ;
+  background: Wheat;
+  margin: 15px;
+  padding: 20px;
+}
+
+
+
+.link-nav{
+ color: purple ;
+ background: Orchid;
+ border-radius: 10px;
+ margin: 5px;
+ padding: 10px;
+}
+
+.link-nav:hover{
+ color: Fuchsia ;
+  background: DarkOrchid;
+  margin: 15px;
+  padding: 20px;
+  }
+
+  .social img:hover{
+  width:70px;
+  height:70px
+  }
