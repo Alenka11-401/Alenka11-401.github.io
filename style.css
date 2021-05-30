@@ -1,80 +1,84 @@
 body {
     font-family: sans-serif;
-    background-color: PowderBlue;
+    background: PaleTurquoise;
+    font-size: 18px;
 }
-header{
-    background-color: White;
-    padding: 20px;
+
+header {
+    background: OldLace;
+    padding: 13px;
+    border-radius: 5px;
+}
+
+.link-header {
+    font-family: segoe script;
+    color: Pink;
+    background: DarkMagenta;
     border-radius: 10px;
-   
-
-
-}
-h1{
-  font-family: fantasy ;
-}
-.p{
-    font-size: 30px;
-    background-color: SlateBlue;
-}
-
-nav{
-    margin-top: 20px;
-    padding: 10px;
-}
-
-
-
-
-.n {
-    padding-left: 200px
-}
-footer{
-   background-color: Lavender
-}
-a {
+    padding: 5px;
+    margin: 10px;
     text-decoration: none;
-    font-family: cursive ;
+}
+
+.link-header:hover {
+    font-family: segoe script;
+    color: Plum;
+    background: FireBrick;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 20px
+}
+
+header nav {
+    padding-top: 18px
+}
+
+.link-nav {
+    color: LightBlue;
+    background: RoyalBlue;
+    border-radius: 10px;
+    padding: 5px;
+    margin-right: 5px;
+    text-decoration: none;
+}
+
+.link-nav:hover {
+    color: CornflowerBlue;
+    background: MediumBlue;
+    border-radius: 10px;
+    padding: 5px;
+    margin-right: 5px;
+    text-decoration: none;
+    font-size: 18px
+}
+
+.cats {
+    font-size: 20px;
+    color: DarkOrchid;
+}
+
+.cats:hover {
     font-size: 30px;
-   
-}
-.link-header{
- color: purple ;
- background: Orchid;
- border-radius: 10px;
- margin: 5px;
- padding: 10px;
- 
-
+    color: MediumVioletRed;
 }
 
-
-.link-header:hover{
- color: BurlyWood ;
-  background: Wheat;
-  margin: 15px;
-  padding: 20px;
+footer {
+    background: black;
+    border-radius: 5px;
+    padding: 13px;
 }
 
-
-
-.link-nav{
- color: purple ;
- background: Orchid;
- border-radius: 10px;
- margin: 5px;
- padding: 10px;
+.div {
+    text-align: right;
 }
 
-.link-nav:hover{
- color: Fuchsia ;
-  background: DarkOrchid;
-  margin: 15px;
-  padding: 20px;
-  }
+.social {
+    margin: 5px;
+}
 
-  .social img:hover{
-  width:70px;
-  height:70px
-  }
-
+.social img:hover {
+    width: 120px;
+    height: 120px;
+}
