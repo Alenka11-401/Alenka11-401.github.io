@@ -1,84 +1,74 @@
 body {
     font-family: sans-serif;
-    background: PaleTurquoise;
-    font-size: 18px;
+    background-color: PowderBlue;
 }
-
-header {
-    background: OldLace;
-    padding: 13px;
-    border-radius: 5px;
-}
-
-.link-header {
-    font-family: segoe script;
-    color: Pink;
-    background: DarkMagenta;
+header{
+    background-color: White;
+    padding: 20px;
     border-radius: 10px;
-    padding: 5px;
-    margin: 10px;
-    text-decoration: none;
-}
 
-.link-header:hover {
-    font-family: segoe script;
-    color: Plum;
-    background: FireBrick;
-    border-radius: 10px;
-    padding: 5px;
-    margin: 10px;
-    text-decoration: none;
-    font-size: 20px
-}
 
-header nav {
-    padding-top: 18px
 }
-
-.link-nav {
-    color: LightBlue;
-    background: RoyalBlue;
-    border-radius: 10px;
-    padding: 5px;
-    margin-right: 5px;
-    text-decoration: none;
+h1{
+  font-family: fantasy ;
 }
-
-.link-nav:hover {
-    color: CornflowerBlue;
-    background: MediumBlue;
-    border-radius: 10px;
-    padding: 5px;
-    margin-right: 5px;
-    text-decoration: none;
-    font-size: 18px
-}
-
-.cats {
-    font-size: 20px;
-    color: DarkOrchid;
-}
-
-.cats:hover {
+.p{
     font-size: 30px;
-    color: MediumVioletRed;
+    background-color: SlateBlue;
 }
 
-footer {
-    background: black;
-    border-radius: 5px;
-    padding: 13px;
+
+
+
+
+
+.n {
+    padding-left: 200px
+}
+footer{
+   background-color: Lavender
+}
+a {
+    text-decoration: none;
+    font-family: cursive ;
+    font-size: 30px;
+   
+}
+.link-header{
+ color: purple ;
+ background: Orchid;
+ border-radius: 10px;
+ margin: 5px;
+ padding: 10px;
+ 
+
 }
 
-.div {
-    text-align: right;
+
+.link-header:hover{
+ color: BurlyWood ;
+  background: Wheat;
+  margin: 15px;
+  padding: 20px;
 }
 
-.social {
-    margin: 5px;
+
+
+.link-nav{
+ color: purple ;
+ background: Orchid;
+ border-radius: 10px;
+ margin: 5px;
+ padding: 10px;
 }
 
-.social img:hover {
-    width: 120px;
-    height: 120px;
-}
+.link-nav:hover{
+ color: Fuchsia ;
+  background: DarkOrchid;
+  margin: 15px;
+  padding: 20px;
+  }
+  .social img:hover{
+  width:70px;
+  height:70px
+  }
